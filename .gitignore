@@ -1,0 +1,9 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+venv/
+.env
+backend/app.db
+backend/previews/*
+!backend/previews/.gitkeep
